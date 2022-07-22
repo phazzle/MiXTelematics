@@ -1,0 +1,11 @@
+C:\Users\Dataflux\Pictures\test\geo\geo\bin\Debug\netcoreapp3.1\geo.exe
+C:\Users\Dataflux\Pictures\test\geo\geo\obj\Debug\netcoreapp3.1\geo.csprojAssemblyReference.cache
+C:\Users\Dataflux\Pictures\test\geo\geo\obj\Debug\netcoreapp3.1\geo.AssemblyInfoInputs.cache
+C:\Users\Dataflux\Pictures\test\geo\geo\obj\Debug\netcoreapp3.1\geo.AssemblyInfo.cs
+C:\Users\Dataflux\Pictures\test\geo\geo\bin\Debug\netcoreapp3.1\geo.deps.json
+C:\Users\Dataflux\Pictures\test\geo\geo\bin\Debug\netcoreapp3.1\geo.runtimeconfig.json
+C:\Users\Dataflux\Pictures\test\geo\geo\bin\Debug\netcoreapp3.1\geo.runtimeconfig.dev.json
+C:\Users\Dataflux\Pictures\test\geo\geo\bin\Debug\netcoreapp3.1\geo.dll
+C:\Users\Dataflux\Pictures\test\geo\geo\bin\Debug\netcoreapp3.1\geo.pdb
+C:\Users\Dataflux\Pictures\test\geo\geo\obj\Debug\netcoreapp3.1\geo.dll
+C:\Users\Dataflux\Pictures\test\geo\geo\obj\Debug\netcoreapp3.1\geo.pdb
